@@ -1,4 +1,4 @@
-# UTS-PBO-Sistem Inventaris Laboratorium Kimia
+# UTS PBO Sistem Inventaris Laboratorium Kimia
 
 Naisyla Auliya Rahmi Putri  
 Kelas: B  
