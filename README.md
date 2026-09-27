@@ -30,7 +30,7 @@ Pengguna memasukkan pilihan sesuai dengan menu yang tersedia. Pilihan tersebut k
 - Ubah Data: pengguna dapat memilih data berdasarkan ID, kemudian mengubah informasi seperti nama, jumlah, atau satuan.
 - Hapus Data: pengguna dapat menghapus data alat atau bahan berdasarkan ID yang dipilih.
 - Peminjaman & Pengembalian: pengguna dapat mencatat peminjaman alat. Sistem akan mengecek ketersediaan stok terlebih dahulu. Jika stok tersedia, jumlah stok akan berkurang. Saat alat dikembalikan, stok akan bertambah kembali.
-- 
+  
 ### 6. Kembali ke Menu Utama
 Setelah proses dari menu yang dipilih selesai, program akan kembali ke menu utama. Pengguna dapat memilih menu lainnya dan menjalankan proses yang berbeda. Perulangan ini menggunakan do-while sehingga program dapat terus berjalan selama pengguna belum memilih menu Keluar.
 
